@@ -37,4 +37,28 @@ class PrimeFactorisation():
 
 
 if __name__ == "__main__":
+    PrimeFactorisation(70).print()
+    PrimeFactorisation(131).print()
+    PrimeFactorisation(147).print()
     PrimeFactorisation(75).print()
+    PrimeFactorisation(180).print()
+    PrimeFactorisation(311).print()
+    PrimeFactorisation(311).print()
+
+    PrimeFactorisation(32).print()
+    PrimeFactorisation(72).print()
+
+    PrimeFactorisation(117).print()
+    PrimeFactorisation(273).print()
+
+    PrimeFactorisation(12).print()
+    PrimeFactorisation(140).print()
+
+    PrimeFactorisation(73).print()
+    PrimeFactorisation(245).print()
+
+    PrimeFactorisation(84).print()
+    PrimeFactorisation(1254).print()
+
+    PrimeFactorisation(120).print()
+    PrimeFactorisation(18).print()

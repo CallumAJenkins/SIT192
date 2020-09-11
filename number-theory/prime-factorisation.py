@@ -36,4 +36,5 @@ class PrimeFactorisation():
         print(f"prime factors of {self.num}: {self.get()}")
 
 
-PrimeFactorisation(75).print()
+if __name__ == "__main__":
+    PrimeFactorisation(75).print()

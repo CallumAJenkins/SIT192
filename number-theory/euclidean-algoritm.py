@@ -39,5 +39,6 @@ class GCD():
         print(f"GCD({self.a}, {self.b}) = {self.get()}")
 
 
-GCD(201, 291).print()
-GCD(75, 325).print()
+if __name__ == "__main__":
+    GCD(201, 291).print()
+    GCD(75, 325).print()
